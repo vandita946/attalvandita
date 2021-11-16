@@ -34,8 +34,8 @@ const Home = () => {
                             </p>
                             <p className="text-justify">
                                 Currently looking for internship opportunities in the Software Development space.
-                                <br/>Available January - August 2022.
-                                <br/>Located in Boston, MA and open to working remote.
+                                Available January - August 2022.
+                                Located in Boston, MA and open to working remote.
                             </p>
                             <p className="text-justify">
                                 Connect with me on LinkedIn, GitHub and view my resume below.
