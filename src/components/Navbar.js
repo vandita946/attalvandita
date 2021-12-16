@@ -8,7 +8,6 @@ const Navbar = () => {
         <nav className="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top">
             <div className="container px-5">
                 <Link to="/" className="navbar-brand">Home</Link>
-                <Link to="/projects" className="navbar-brand">Projects</Link>
             </div>
         </nav>
     </>

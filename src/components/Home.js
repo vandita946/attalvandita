@@ -11,7 +11,7 @@ const Home = () => {
                 <div className="container px-5">
                     <h2 className="masthead-subheading mb-0">Vandita Attal</h2>
                     <p className="masthead-subtext">Computer Science Graduate Student • Aspiring Software Engineer</p>
-                    <a className="btn btn-primary btn-xl rounded-pill mt-5" href="#scroll">Learn More</a>
+                    <a className="btn btn-primary btn-xl rounded-pill mt-5" href="https://vandita946.github.io/">Click me! I have a new website!</a>
 
 
                 </div>
